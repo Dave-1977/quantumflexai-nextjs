@@ -51,7 +51,7 @@ export default function Contact() {
     <section className="section" id="contact">
       <div className="container">
         <h2 className="section-title">Get Started</h2>
-        <p className="section-subtitle">Ready to transform your operations? Let's talk</p>
+        <p className="section-subtitle">Ready to transform your operations? Let&apos;s talk</p>
 
         <div className="contact-content">
           <form className="contact-form" onSubmit={handleSubmit}>
